@@ -1,8 +1,8 @@
-# Equilibrium
 
-## Description
+![Preview](https://github.com/user-attachments/assets/6b77042d-2c4a-40a7-9982-5d96bca4faa3)
+# Equilibrium : Platform Discussion for Gender Topic
 
-is an application as a discussion forum with the application of big data which focuses on the discussion theme of gender equalityarry out their respective roles. One gender should not feel superior to the other because they are actually the same in different forms
+Equilibrium is an application as a discussion forum with the application of big data which focuses on the discussion theme of gender equalityarry out their respective roles. One gender should not feel superior to the other because they are actually the same in different forms
 
 ## Teaser Video Preview
 
